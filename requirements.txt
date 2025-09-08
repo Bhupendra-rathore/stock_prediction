@@ -4,3 +4,4 @@ joblib
 xgboost
 pandas
 scikit-learn
+yfinance
